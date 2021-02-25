@@ -1,16 +1,20 @@
 import '../styles/global.css'
-import {ChallengesContext, ChallengesProvider} from '../contexts/challengesContex'
+import { ChallengesContext, ChallengesProvider } from '../contexts/challengesContex'
 import { useState } from 'react'
+import { CountDownProvider } from '../contexts/countDownContext'
 
 
 
 function MyApp({ Component, pageProps }) {
- 
+
   return (
+
     <ChallengesProvider >
-      <Component {...pageProps} />
+      <CountDownProvider>
+        <Component {...pageProps} />
+      </CountDownProvider>
     </ChallengesProvider>
-  
+
   )
 }
 

@@ -1,6 +1,7 @@
 .perfilCOntainer{
     display: flex;
     align-items: center;
+    
 }
 
 .perfilCOntainer > img {

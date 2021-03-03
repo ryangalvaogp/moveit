@@ -1,7 +1,7 @@
 
 
 <h1 align="center">
-<img alt="Move.it" src="/public/logo-full.svg" width="400px">
+<img alt="Move.it" src="https://raw.githubusercontent.com/ryangalvaogp/moveit/gh-pages/public/logo-full.svg" width="400px">
 </h1>
 
 
@@ -55,10 +55,10 @@ Como recheio, teve fixação dos principais fundamentos do React como componente
 Além disso, entramos mais a fundo sobre os conceitos de contextos no React, responsável por compartilhar uma informação entre vários componentes em tela.
 ## 💻 Web Demo
 <div>
-   <img src="/demo/one.png" width="400px">
-   <img src="/demo/two.png" width="400px">
-   <img src="/demo/there.png" width="400px">
-   <img src="/demo/four.png" width="400px">
+   <img src="https://raw.githubusercontent.com/ryangalvaogp/moveit/gh-pages/demo/one.png" width="400px">
+   <img src="https://raw.githubusercontent.com/ryangalvaogp/moveit/gh-pages/demo/two.png" width="400px">
+   <img src="https://raw.githubusercontent.com/ryangalvaogp/moveit/gh-pages/demo/there.png" width="400px">
+   <img src="https://raw.githubusercontent.com/ryangalvaogp/moveit/gh-pages/demo/four.png" width="400px">
    </div>
 
 ![]( width="400px")

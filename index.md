@@ -1,37 +1,94 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/ryangalvaogp/moveit/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<h1 align="center">
+<img alt="Move.it" src="/public/logo-full.svg" width="400px">
+</h1>
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<h4 align="center">
+  🚀 NextLevelWeek#4
+</h4>
 
-```markdown
-Syntax highlighted code block
+<p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/ryangalvaogp/moveit">
 
-# Header 1
-## Header 2
-### Header 3
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/ryangalvaogp/moveit">
+  
+  <a href="https://github.com/ryangalvaogp/moveit/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/ryangalvaogp/Be-the-Hero">
+  </a>
 
-- Bulleted
-- List
+  <a href="https://rocketseat.com.br">
+    <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-purple">
+  </a>
+   
 
-1. Numbered
-2. List
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
+</p>
 
-**Bold** and _Italic_ and `Code` text
+<p align="center">
+  <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#octocat-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#-web-demo">Demo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#anger-pr%C3%A9-requisitos">Pré Requisitos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#wrench-instala%C3%A7%C3%A3o">Instalação</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  
+</p>
 
-[Link](url) and ![Image](src)
+
+## 🚀 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- [Node.js](https://nodejs.org/en/)
+- [Next.js](https://nextjs.org/)
+- [React](https://reactjs.org)
+
+
+## :octocat: Projeto
+Na 4ª edição do Next Level Wekend (NLW), a equipe da Rocketseat preparou uma delícia de conteúdo envolvendo os ambientes de desenvolvimento ReactJS, NextJS, NodeJS.
+
+O evento NLW tem como objetivo promover a educação tecnológica através a programação web, utilizando as tecnologias mais poderosas e recentes. Nesta, foi desenvolvido o Move.it, que é uma aplicação convencional para aguçar a atenção em determinadas tarefas utilizando a técnica de pomodoro. Ao concluir, o usuário ganha experiências (xp) e assim avançando para um próximo nível.
+
+Como recheio, teve fixação dos principais fundamentos do React como componentes, estados, propriedades, e ferramentas que funcionam por trás da biblioteca como Webpack e Babel, e os conceitos por trás de um front-end SPA.
+
+Além disso, entramos mais a fundo sobre os conceitos de contextos no React, responsável por compartilhar uma informação entre vários componentes em tela.
+## 💻 Web Demo
+<div>
+   <img src="/demo/one.png" width="400px">
+   <img src="/demo/two.png" width="400px">
+   <img src="/demo/there.png" width="400px">
+   <img src="/demo/four.png" width="400px">
+   </div>
+
+![]( width="400px")
+
+![](/img/incidents.png)
+
+## :anger: Pré-requisitos:
+ - Ter o ambiente preparado com nodejs, node, npm, yarn.
+
+### Verificar instalação/ versões utilizadas
+Verificar se os requisitos estão instalados, não é necessário utilizar as versões especificadas abaixo, porém no momento que foi criado esse projeto, essas são as versões do ambiente:
+```sh
+$ node -v  
+v14.15.5
+
+$ npm -v   
+v6.14.11
+
+$ yarn -v   
+1.22.5
+
+$ expo --version
+3.17.23
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## :wrench: Instalação 
 
-### Jekyll Themes
+Após clonar o repositório em sua máquina:
+- Execute ``` $ npm i ``` para instalar todas as dependências;
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ryangalvaogp/moveit/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- Execute ``` $ npm i -D ``` para instalar todas as dependências de desenvolvimento;
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- Execute ``` $ yarn dev ``` para executar o projeto na porta 3000;

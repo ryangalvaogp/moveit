@@ -45,7 +45,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [React](https://reactjs.org)
 
 
-## :octocat: Projeto
+## 📄 Projeto
 Na 4ª edição do Next Level Wekend (NLW), a equipe da Rocketseat preparou uma delícia de conteúdo envolvendo os ambientes de desenvolvimento ReactJS, NextJS, NodeJS.
 
 O evento NLW tem como objetivo promover a educação tecnológica através a programação web, utilizando as tecnologias mais poderosas e recentes. Nesta, foi desenvolvido o Move.it, que é uma aplicação convencional para aguçar a atenção em determinadas tarefas utilizando a técnica de pomodoro. Ao concluir, o usuário ganha experiências (xp) e assim avançando para um próximo nível.
@@ -65,7 +65,7 @@ Além disso, entramos mais a fundo sobre os conceitos de contextos no React, res
 
 ![](/img/incidents.png)
 
-## :anger: Pré-requisitos:
+## 💢 Pré-requisitos:
  - Ter o ambiente preparado com nodejs, node, npm, yarn.
 
 ### Verificar instalação/ versões utilizadas
@@ -84,7 +84,7 @@ $ expo --version
 3.17.23
 ```
 
-## :wrench: Instalação 
+## 🔧 Instalação 
 
 Após clonar o repositório em sua máquina:
 - Execute ``` $ npm i ``` para instalar todas as dependências;

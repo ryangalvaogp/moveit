@@ -80,8 +80,6 @@ v6.14.11
 $ yarn -v   
 1.22.5
 
-$ expo --version
-3.17.23
 ```
 
 ## 🔧 Instalação 
